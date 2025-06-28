@@ -1,10 +1,9 @@
 <h1 align="center">
-  GRANNY
+  The Story Teller
 </h1>
 
 <h4 align="center">A Web Application to generate multiple genre stories based on GPT2 Model</h4>
 <div align="center">
-  <sub>Built with ❤︎ | Inspired from the stories of my Granny 😉</sub>
 </div>
 
 </br>
